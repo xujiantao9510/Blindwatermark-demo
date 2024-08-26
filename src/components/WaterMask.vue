@@ -1,16 +1,13 @@
 <template>
   <div class="webcontent">
-    <span>The powerful Iran-backed group vowed to respond. The threat triggered a slew of flight cancelations on both sides of the border, a chorus of governments imploring their citizens</span><br/>
-    <span>The powerful Iran-backed group vowed to respond. The threat triggered a slew of flight cancelations on both sides of the border, a chorus of governments imploring their citizens</span><br/>
-    <span>The powerful Iran-backed group vowed to respond. The threat triggered a slew of flight cancelations on both sides of the border, a chorus of governments imploring their citizens</span><br/>
-    <span>The powerful Iran-backed group vowed to respond. The threat triggered a slew of flight cancelations on both sides of the border, a chorus of governments imploring their citizens</span><br/>
-    <span>The powerful Iran-backed group vowed to respond. The threat triggered a slew of flight cancelations on both sides of the border, a chorus of governments imploring their citizens</span><br/>
-    <span>The powerful Iran-backed group vowed to respond. The threat triggered a slew of flight cancelations on both sides of the border, a chorus of governments imploring their citizens</span><br/>
-    <span>The powerful Iran-backed group vowed to respond. The threat triggered a slew of flight cancelations on both sides of the border, a chorus of governments imploring their citizens</span><br/>
-    <span>The powerful Iran-backed group vowed to respond. The threat triggered a slew of flight cancelations on both sides of the border, a chorus of governments imploring their citizens</span><br/>
-    <span>111111111111111111111111111111111111111111111111111111111111111111111</span><br/>
-    <span>111111111111111111111111111111111111111111111111111111111111111111111</span><br/>
-    <span>111111111111111111111111111111111111111111111111111111111111111111111</span><br/>
+    <span>The powerful Iran-backed group vowed to respond The threat triggered a</span><br/>
+    <span>The powerful Iran-backed group vowed to respond The threat triggered a</span><br/>
+    <span>The powerful Iran-backed group vowed to respond The threat triggered a</span><br/>
+    <span>The powerful Iran-backed group vowed to respond The threat triggered a</span><br/>
+    <span>The powerful Iran-backed group vowed to respond The threat triggered a</span><br/>
+    <span>The powerful Iran-backed group vowed to respond The threat triggered a</span><br/>
+    <span>The powerful Iran-backed group vowed to respond The threat triggered a</span><br/>
+    <span>The powerful Iran-backed group vowed to respond The threat triggered a</span>
   </div>
   <canvas ref="watermarkCanvas" class="watermarkCanvas"></canvas>
 </template>
@@ -102,13 +99,9 @@ export default {
 <style scoped>
 .webcontent {
   position: relative;
-  padding: 20px;
-  margin: 50px;
   background-color: #ffffff;
-  border-radius: 10px;
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+
   font-size: 35px;
-  text-align: right;
   z-index: 1;
 }
 
